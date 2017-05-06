@@ -1,0 +1,11 @@
+{
+  "name": "monk_and_modulo",
+  "version": "1.0.0",
+  "description": "code monks problem solutions in javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
